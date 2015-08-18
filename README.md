@@ -12,7 +12,7 @@ Install [Node.js](http://nodejs.org/).
 Clone GitHub repo:
 
 ```
-git clone https://github.com/twitterdev/sample-angular-node.git
+git clone https://github.com/swkarlekar/STRIDER_Twitter_Search.git
 ```
 Create a config.js file using config.sample.js as a template. Fill in your Twitter App API Keys. You will need to [create a Twitter application](https://apps.twitter.com/).
 
