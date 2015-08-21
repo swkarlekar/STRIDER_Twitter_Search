@@ -1,3 +1,6 @@
+//Written by Sweta Karlekar, August 2015, Thomas Jefferson High School 
+//credit to twitterdev/sample-angular-node for tutorial and framework
+
 var app = angular.module('Twitter', ['ngResource', 'ngSanitize']);
 
 app.controller('TweetList', function($scope, $resource, $timeout) {
