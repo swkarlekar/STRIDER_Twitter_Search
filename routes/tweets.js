@@ -1,3 +1,6 @@
+//Written by Sweta Karlekar, August 2015, Thomas Jefferson High School 
+//credit to twitterdev/sample-angular-node for tutorial and framework
+
 var express = require('express');
 var router = express.Router();
 var Twit = require('twit');
